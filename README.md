@@ -1,6 +1,6 @@
 # Demo Meme App
 
-This repository contains a sample demo app that implements MVVM architecture using Kotlin, Dagger,
+This repository contains a sample demo Meme app that implements MVVM architecture using Kotlin, Dagger,
 Retrofit, Coroutines, Flow, StateFlow, and etc.
 
 ### Major Highlights
